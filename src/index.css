@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DaisyUI theme requires tailwind + daisyui plugin, configured by user when installing deps */
+body { padding: 0; margin: 0; }
